@@ -19,8 +19,3 @@ def obfuscate(code):
 #test code
 my_code = 'x = 5\ny = 10\nz = x + y'
 print(obfuscate(my_code))
-
-#Output
-L9X37 = 5
-8KG4N = 10
-S4HJ0 = L9X37 + 8KG4N
